@@ -14,7 +14,7 @@ def calculate(a,b):
 
 
 def unused_function():
-    x=10
+   
     y=30
 
 
